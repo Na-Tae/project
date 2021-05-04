@@ -11,3 +11,5 @@ function extensionPic() {
 function reductionPic() {
     this.style.width = "270px";
 }  
+
+
